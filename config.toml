@@ -1,0 +1,317 @@
+# Page settings
+
+baseURL = ""
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+
+
+
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#9BB025"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Enrique Mendoza Tincopa"
+        tagline = "Data Visualization & Information Designer"
+        avatar = "EMT.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Lima - Perú"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "051 924 577 335"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "emtincopa@gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "https://www.behance.net/enriquemendoza5"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "R/SQL/DAX"
+        [[params.skills.list.items]]
+        details = "Power BI/Tableau/Data Studio/Flourish"
+        [[params.skills.list.items]]
+        details = "Adobe Illustrator/Adobe Photoshop/Adobe After Effects/Figma"
+        [[params.skills.list.items]]
+        details = "Infographic design and reporting"
+        [[params.skills.list.items]]
+        details = "Javascript/HTML (in progress)"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Analytical thinking"
+        [[params.skills.list.items]]
+        details = "Teamwork"
+        [[params.skills.list.items]]
+        details = "Problem solving"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Graduated in Health Administration"
+        university = "Universidad Peruana Cayetano Heredia"
+        dates = "2014 - 2019"
+        [[params.education.list]]
+        degree = "Bachelor, Biology"
+        university = "Universidad Ricardo Palma"
+        dates = "2016 - 2022"
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Advanced"
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Native"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "DataViz & Design"
+        [[params.interests.list]]
+        name = "Coding"
+        [[params.interests.list]]
+        name = "Social issues"
+        [[params.interests.list]]
+        name = "Videogames"
+        [[params.interests.list]]
+        name = "Watercolor Painting"
+        [[params.interests.list]]
+        name = "Skateboarding"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in the environmental consulting sector, but in recent years I have focused on the health sector."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+        
+        
+        [[params.experience.list]]
+        title = "Data visualization specialist (Independent)"
+        dates = "2021 - Present"
+        company = "FUTURUM - Digital Agency"
+        details = "As part of the Data Team, I'm designing de data visualization and user experience for the clients, always chasing the perfect form for information. My work involves:"
+        [[params.experience.list.items]]
+        details = "Designing data visualizations, reports and user interfaces."
+        [[params.experience.list.items]]
+        details = "Developing Figma or Adobe Illustrator (sketches) prototypes for data visualization and interactive elements."
+        [[params.experience.list.items]]
+        details = "Creating and presenting Google Data Studio dashboards with data from Google Ads and Facebook Ads."
+        [[params.experience.list.items]]
+        details = "Creating and presenting business dashboards using Power BI."
+        [[params.experience.list.items]]
+        details = "Creation and proposal of relevant KPIs. Solutions based on business goals."
+
+        [[params.experience.list]]
+        title = "Medical Information"
+        dates = "2019 - 2020"
+        company = "Roche Farma (Perú)"
+        details = "Actively participate in the responses to all requests for bibliographic searches made by health professionals, medical managers, MSLs, medical representatives and external clients through the applicable computerized medical system in a balanced, accurate, ethical and timely manner. Promote constant support in the safe and effective use of Roche products, as well as support the Pharmacovigilance area in matters of medical information and report adverse events and / or quality complaints related to requests for information in time and quality appropriate to the area Pharmacovigilance and / or Quality."
+        [[params.experience.list.items]]
+        details = "Management of inquiries via email and Whatsapp application."
+        [[params.experience.list.items]]
+        details = "Non-promotional scientific information material approvals: Information abouts events, conferences, webinars, e-mail marketing, content update on the Roche Dialogo official website for medical professionals."
+        [[params.experience.list.items]]
+        details = "Review of quality complaints or adverse events in consultations."
+        [[params.experience.list.items]]
+        details = "Review of the database of queries and analysis of information generated by BOT."
+
+        [[params.experience.list]]
+        title = "Intern - Quality and Process Layout"
+        dates = "2018-II"
+        company = "Clínica Internacional"
+        details = "Support in the Continuous Quality Improvement area of the Patient Quality and Safety department. Mainly I carried out searches and bibliographic management of norms of standards and indicators of quality in health as well as constantly supporting audits of the service units of the International Clinic in both locations (Lima Centro and San Borja)."
+        [[params.experience.list.items]]
+        details = "Collaboration in Training workshops and process layouts."
+        [[params.experience.list.items]]
+        details = "Development of matrices for improvement plans and participation in the elaboration of a Suicidal Risk Detection policy."
+
+
+
+        [[params.experience.list]]
+        title = "Intern - Project Management."
+        dates = "2018-I"
+        company = "G&C S.R.L. - Salud y Desarrollo"
+        details = "Administrative support to the projects and administration area."
+        [[params.experience.list.items]]
+        details = "Preparation and organization of a database for health campaigns in Aruntaya, Moquegua."
+        [[params.experience.list.items]]
+        details = "Management of the Virtual Classroom for MOOC course: Supervision of the Social Implementation of Water and Sanitation Projects for Rural Areas."
+
+
+
+        [[params.experience.list]]
+        title = "Research Assistant"
+        dates = "2014 - 2016"
+        company = "UPCH - Lab. 109, Applied botany"
+        details = "Collaboration in botanical research studies and maintenance of botanical samples of the applied botanical laboratory at the Universidad Peruana Cayetano Heredia, Research and Development Laboratories (LID)."
+        [[params.experience.list.items]]
+        details = "Drying, pressing, assembly and registration of botanical samples of medicinal character and ethnobotanical importance."
+        [[params.experience.list.items]]
+        details = "Taxonomic and systematic classification of Peruvian plants."
+        [[params.experience.list.items]]
+        details = "Development of a botanical database for the UPCH Medicinal Herbarium (HEPLAME) with the Access tool."
+
+        [[params.experience.list]]
+        title = "Field assistant"
+        dates = "2015"
+        company = "CINYDE S.A.C."
+        details = "Field assistant for the Flora component. Detailed Environmental Impact Study (EIAd) of the 136 MW Atocongo Thermal Power Plant Project and 60 KV Transmission Line."
+        [[params.experience.list.items]]
+        details = "Planning of biological monitoring of flora."
+        [[params.experience.list.items]]
+        details = "Data management and species identification."
+
+        [[params.experience.list]]
+        title = "Field assistant"
+        dates = "2015"
+        company = "RIVFLO S.A.C."
+        details = "Field assistant for the Flora component. Environmental Impact Statement (DIA) of the Rubí Solar Power Generation Project - ENEL GREEN POWER PERU S.A."
+        [[params.experience.list.items]]
+        details = "Planning of biological monitoring of flora."
+        [[params.experience.list.items]]
+        details = "Data management and species identification."
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Project: Clinical Trials - An opportunity for everyone"
+        meta = "Roche Farma"
+        tagline = "Digital strategy to improve access to information on clinical trials in Peru with the Roche Farma Peru CCO team. Based on the use of Digital Marketing and a Call Center to link patients to research centers. Main function: data analysis and design of reports and infographics [Digital material for reporting and educational]."
+        [[params.projects.list]]
+        title = "Project: Data visualization for Peruvian article in The Lancet"
+        meta = "Perú"
+        tagline = "I participated as a data visualization specialist for the article 'Seroprevalence of anti-SARS-CoV2 anti bodies in Iquitos, Peru in July and August, 2020: a population-base study', finally published in The Lancet Global Health. DOI:https://doi.org/10.1016/S2214-109X(21)00173-X"
+        [[params.projects.list]]
+        title = "Project: Data visualization for Aviva Investors digital book 'Little Book of Data'"
+        meta = "Perú"
+        tagline = "I participated as the creator of the data visualization titled 'The cost of 1GB of mobile data in the world' (page 65). Access: www.avivainvestors.com/en-gb/views/aiq-investment-thinking/little-book-of-data/"
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2016 · Yadavaea, a new generic name for Bilgramia (Scenedesmaceae). Rev. Notulae Algarum. Issues 2016. No. 6, Junio."
+        [[params.information.list.items]]
+        details = "2015 · Epistephium chironii, a new name for Ruiz & Pavón's Sobralia amplexicaulis (Orchidaceae). Rev. Richardiana. Vol., 16., Noviembre. Pp. 26-32."
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "DataViz & Design, Coding, Social Issues, Videogames, Watercolor Painting, Skateboarding"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/DatavizAdventure"
+        title = "My github"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/enrique-mendoza-tincopa-4b2a14173"
+        title = "Enrique"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/DatavizAdventuR"
+        title = "@DatavizAdventuR"
+        [[params.social.list]]
+        icon = "fab fa-globe"
+        url = "//instagram.com/datavizadventure/"
+        title = "Instagram portfolio"
+
+
+
+
+
