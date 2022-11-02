@@ -45,10 +45,9 @@ theme = "hugo-devresume-theme"
         url = "mailto:#"
         text = "emtincopa@gmail.com"
         [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "webto:#"
-        text = "www.behance.net/enriquemendoza5"
-
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "datavizadventure@gmail.com"
 
 
 
@@ -175,7 +174,7 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "Contact me: datavizadventure@gmail.com"
         [[params.experience.list.items]]
-        details = "Upwork profile: [upwork.com/EnriqueMendoza](www.upwork.com/freelancers/~01cbaea0e07b7d046a)"
+        details = "Upwork profile: [upwork.com/EnriqueMendoza](https://www.upwork.com/freelancers/~01cbaea0e07b7d046a)"
         [[params.experience.list.items]]
         details = "I use R, Adobe Illustrator, Adobe Photoshop, DataWrapper and more."
         [[params.experience.list]]
@@ -236,10 +235,10 @@ theme = "hugo-devresume-theme"
         [[params.experience.list]]
         title = "Research Assistant & Botanical Consulting"
         dates = "2013 - 2018"
-        company = "UPCH - Laboratory of Applied Botany and Environmental Consulting Companies"
+        company = "Laboratory of Applied Botany and Environmental Consulting Companies"
         details = ""
         [[params.experience.list.items]]
-        details = "Collaboration in botanical research studies and maintenance of botanical samples of the applied botanical laboratory at the Universidad Peruana Cayetano Heredia, Research and Development Laboratories (LID)."
+        details = "Collaboration in botanical research studies and maintenance of botanical samples of the applied botanical laboratory at the Universidad Peruana Cayetano Heredia (UPCH), Research and Development Laboratories (LID)."
         [[params.experience.list.items]]
         details = "CINYDE S.A.C. · Temporal Agreement: Field assistant for the Flora component. Detailed Environmental Impact Study (EIAd) of the 136 MW Atocongo Thermal Power Plant Project and 60 KV Transmission Line. Planning, Data management and species identification."
         [[params.experience.list.items]]
@@ -266,18 +265,18 @@ theme = "hugo-devresume-theme"
         [[params.information.list.items]]
         details = "2015 · Epistephium chironii, a new name for Ruiz & Pavón's Sobralia amplexicaulis (Orchidaceae). Rev. Richardiana. Vol., 16., Noviembre. Pp. 26-32."
         [[params.information.list.items]]
-        details = "2020 · Data visualization for Aviva Investors digital book 'Little Book of Data'. I participated as the creator of the data visualization titled 'The cost of 1GB of mobile data in the world' (page 65). Access: www.avivainvestors.com/en-gb/views/aiq-investment-thinking/little-book-of-data/"
+        details = "2020 · Data visualization for Aviva Investors digital book 'Little Book of Data'. I participated as the creator of the data visualization titled 'The cost of 1GB of mobile data in the world' (page 65). Access: [The Little Book of Data - 2020](https://www.avivainvestors.com/en-gb/views/aiq-investment-thinking/little-book-of-data/)"
         [[params.information.list.items]]
-        details = "2021 · I participated as a data visualization specialist for the article 'Seroprevalence of anti-SARS-CoV2 anti bodies in Iquitos, Peru in July and August, 2020: a population-base study', finally published in The Lancet Global Health. DOI: https://doi.org/10.1016/S2214-109X(21)00173-X"
+        details = "2021 · I participated as a data visualization specialist for the article 'Seroprevalence of anti-SARS-CoV2 anti bodies in Iquitos, Peru in July and August, 2020: a population-base study', finally published in The Lancet Global Health. DOI: [10.1016/S2214-109X(21)00173-X](https://doi.org/10.1016/S2214-109X(21)00173-X)"
         [[params.information.list.items]]
-        details = "2022 · Ranked: The Best-Selling Video Game Consoles of All Time. Link: www.visualcapitalist.com/cp/ranked-the-best-selling-video-game-consoles-of-all-time/"
+        details = "2022 · Ranked: The Best-Selling Video Game Consoles of All Time. Link: [Ranked The Best Selling Video Game Consoles of All Time](https://www.visualcapitalist.com/cp/ranked-the-best-selling-video-game-consoles-of-all-time/)"
         [[params.information.list]]
         title = "Interests"
         details = "DataViz & Design, Coding, Social Issues, Videogames, Watercolor Painting, Skateboarding"
         [[params.information.list]]
         title = "Portfolio"
         [[params.information.list.items]]
-        details = "Behance · [Portfolio of Data Visualizations (Static visualizations).](www.behance.net/enriquemendoza5)"
+        details = "Behance · [Portfolio of Data Visualizations (Static visualizations).](https://www.behance.net/enriquemendoza5)"
         [[params.information.list.items]]
         details = "Tableau · [Portfolio of Dashboards created with the Tableau tool.](https://public.tableau.com/app/profile/enrique.mendoza3617)"
 
