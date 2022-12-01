@@ -166,9 +166,11 @@ theme = "hugo-devresume-theme"
         dates = "2022 - Present"
         company = "MarketColor Limited (UK), Freelance"
         details = "Design of custom graphics for presentations and publications related to the capital market and other business KPIs."
+        [[params.experience.list.items]]
+        details = "Tools: R, Tableau, Power BI, Adobe Illustrator, Adobe Photoshop and more."
         [[params.experience.list]]
-        title = "Data Visualization Designer"
-        dates = "2021 - 2022"
+        title = "Data Visualization Consultant and Designer"
+        dates = "2021 - Present"
         company = "Freelance (Self employed)"
         details = "Currently I'm dedicated to helping companies or independent people to transform complex data into accessible visualizations and facilitate a better understanding of the information. I'm interested in projects related to Capital Markets, Digital Marketing and Video Game Industry."
         [[params.experience.list.items]]
@@ -176,7 +178,7 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "Upwork profile: [upwork.com/EnriqueMendoza](https://www.upwork.com/freelancers/~01cbaea0e07b7d046a)"
         [[params.experience.list.items]]
-        details = "I use R, Adobe Illustrator, Adobe Photoshop, DataWrapper and more."
+        details = "I use R, Tableau, Power BI, Adobe Illustrator, Adobe Photoshop and more."
         [[params.experience.list]]
         title = "Data visualization specialist (Remote)"
         dates = "2021 - 2022"
@@ -296,7 +298,7 @@ theme = "hugo-devresume-theme"
         title = "My github"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/enrique-mendoza-tincopa-4b2a14173"
+        url = "//linkedin.com/in/enrique-mendoza-t-4b2a14173/"
         title = "Enrique"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
