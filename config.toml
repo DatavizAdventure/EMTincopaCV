@@ -181,7 +181,7 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "Upwork profile: [upwork.com/EnriqueMendoza](https://www.upwork.com/freelancers/~01cbaea0e07b7d046a)"
         [[params.experience.list.items]]
-        details = "I use R, Tableau, Power BI, Adobe Illustrator, Adobe Photoshop and more."
+        details = "I use R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
         [[params.experience.list]]
         title = "Data visualization specialist (Remote)"
         dates = "2021 - 2022"
@@ -263,6 +263,13 @@ theme = "hugo-devresume-theme"
     [params.information]
         enable = true
 
+        
+        [[params.information.list]]
+        title = "Portfolio"
+        [[params.information.list.items]]
+        details = "Behance · [Portfolio of Data Visualizations (Static visualizations).](https://www.behance.net/enriquemendoza5)"
+        [[params.information.list.items]]
+        details = "Tableau · [Portfolio of Dashboards created with the Tableau tool.](https://public.tableau.com/app/profile/enrique.mendoza3617)"
         [[params.information.list]]
         title = "Papers & Publications"
         [[params.information.list.items]]
@@ -284,12 +291,7 @@ theme = "hugo-devresume-theme"
         title = "Certificates"
         [[params.information.list.items]]
         details = "Access to my Certificates: [MOOCs and Workshops Certificates](https://drive.google.com/drive/folders/1yxPWfPSGuUoYSczAxteJ2dJPAd6b8gyO?usp=sharing)"
-        [[params.information.list]]
-        title = "Portfolio"
-        [[params.information.list.items]]
-        details = "Behance · [Portfolio of Data Visualizations (Static visualizations).](https://www.behance.net/enriquemendoza5)"
-        [[params.information.list.items]]
-        details = "Tableau · [Portfolio of Dashboards created with the Tableau tool.](https://public.tableau.com/app/profile/enrique.mendoza3617)"
+
 
 
 
