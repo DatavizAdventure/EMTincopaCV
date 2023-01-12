@@ -151,8 +151,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in environmental consulting and health services, but in recent months I have focused in the Digital Marketing field and Video Game Industry."
-
+        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in environmental consulting and health services, but in recent months I have focused in the creation of infographics for social media or journals in the Technology field and Video Game Industry."
 
 
 
@@ -175,11 +174,11 @@ theme = "hugo-devresume-theme"
         title = "Data Visualization Consultant and Designer"
         dates = "2021 - Present"
         company = "Freelance (Self employed)"
-        details = "Currently I'm dedicated to helping companies or independent people to transform complex data into accessible visualizations and facilitate a better understanding of the information. I'm interested in projects related to Capital Markets, Digital Marketing and Video Game Industry."
+        details = "Currently I'm dedicated to helping companies or independent people to transform complex data into accessible visualizations and facilitate a better understanding of the information. I'm interested in projects related to Capital Markets, Technology and Video Game Industry. Contact email: datavizadventure@gmail.com or [Fiverr](https://es.fiverr.com/share/8pj3Ao)."
         [[params.experience.list.items]]
-        details = "Contact me: datavizadventure@gmail.com"
+        details = "Some of my actual clients: [Roche](https://www.roche.com.pe), [Marketcolor](https://www.marketcolor.co), [Bolster](https://bolster.ai/?src=twitter), etc."
         [[params.experience.list.items]]
-        details = "Upwork profile: [upwork.com/EnriqueMendoza](https://www.upwork.com/freelancers/~01cbaea0e07b7d046a)"
+        details = "I mostly share my work in the following sites: [Instagram/datavizadventure](https://www.instagram.com/datavizadventure/) and [Behance](https://www.behance.net/enriquemendoza5)."
         [[params.experience.list.items]]
         details = "I use R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
         [[params.experience.list]]
@@ -273,17 +272,17 @@ theme = "hugo-devresume-theme"
         [[params.information.list]]
         title = "Papers & Publications"
         [[params.information.list.items]]
+        details = "2022 · Article published in Visual Capitalist (June). Link: [Ranked The Best Selling Video Game Consoles of All Time](https://www.visualcapitalist.com/cp/ranked-the-best-selling-video-game-consoles-of-all-time/)."
+        [[params.information.list.items]]
+        details = "2022 · Article published in Visual Capitalist (November). Link: [Charted: The Dark Web Price Index 2022](https://www.visualcapitalist.com/cp/charted-the-dark-web-price-index-2022/)."
+        [[params.information.list.items]]
+        details = "2021 · I participated as a data visualization specialist for the article 'Seroprevalence of anti-SARS-CoV2 anti bodies in Iquitos, Peru in July and August, 2020: a population-base study', finally published in The Lancet Global Health. DOI: [10.1016/S2214-109X(21)00173-X](https://doi.org/10.1016/S2214-109X(21)00173-X)."
+        [[params.information.list.items]]
+        details = "2020 · Data visualization for Aviva Investors digital book 'Little Book of Data'. I participated as the creator of the data visualization titled 'The cost of 1GB of mobile data in the world' (page 65). Access: [The Little Book of Data - 2020](https://www.avivainvestors.com/en-gb/views/aiq-investment-thinking/little-book-of-data/)."
+        [[params.information.list.items]]
         details = "2016 · Yadavaea, a new generic name for Bilgramia (Scenedesmaceae). Rev. Notulae Algarum. Issues 2016. No. 6, Junio."
         [[params.information.list.items]]
         details = "2015 · Epistephium chironii, a new name for Ruiz & Pavón's Sobralia amplexicaulis (Orchidaceae). Rev. Richardiana. Vol., 16., Noviembre. Pp. 26-32."
-        [[params.information.list.items]]
-        details = "2020 · Data visualization for Aviva Investors digital book 'Little Book of Data'. I participated as the creator of the data visualization titled 'The cost of 1GB of mobile data in the world' (page 65). Access: [The Little Book of Data - 2020](https://www.avivainvestors.com/en-gb/views/aiq-investment-thinking/little-book-of-data/)"
-        [[params.information.list.items]]
-        details = "2021 · I participated as a data visualization specialist for the article 'Seroprevalence of anti-SARS-CoV2 anti bodies in Iquitos, Peru in July and August, 2020: a population-base study', finally published in The Lancet Global Health. DOI: [10.1016/S2214-109X(21)00173-X](https://doi.org/10.1016/S2214-109X(21)00173-X)"
-        [[params.information.list.items]]
-        details = "2022 · Article published in Visual Capitalist (June). Link: [Ranked The Best Selling Video Game Consoles of All Time](https://www.visualcapitalist.com/cp/ranked-the-best-selling-video-game-consoles-of-all-time/)"
-        [[params.information.list.items]]
-        details = "2022 · Article published in Visual Capitalist (November). Link: [Charted: The Dark Web Price Index 2022](https://www.visualcapitalist.com/cp/charted-the-dark-web-price-index-2022/)"
         [[params.information.list]]
         title = "Interests"
         details = "DataViz & Design, Infographics, Coding, Social Issues, Videogames, Watercolor Painting, Skateboarding"
