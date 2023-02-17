@@ -274,7 +274,7 @@ theme = "hugo-devresume-theme"
         [[params.information.list.items]]
         details = "2023 · Third Place Winner in the [World Data Visualization Prize 2023](https://wdvp.worldgovernmentsummit.org), conducted in partnership with the [World Government Summit](https://www.worldgovernmentsummit.org/home). Project title ['Happy People, Happy Planet?'](https://d33wubrfki0l68.cloudfront.net/5ba77c29-f30f-4918-b909-ea47adae1795/Happy%20People,%20Happy%20Planet.png). Access to the full list of Winners: [The World Dataviz Prize 2023 Winners](https://informationisbeautiful.net/2023/the-winners-of-the-world-dataviz-prize-2023/)."
         [[params.information.list]]
-        title = "Papers & Publications and Awards"
+        title = "Papers & Publications"
         [[params.information.list.items]]
         details = "2022 · Article published in Visual Capitalist (June). Link: [Ranked The Best Selling Video Game Consoles of All Time](https://www.visualcapitalist.com/cp/ranked-the-best-selling-video-game-consoles-of-all-time/)."
         [[params.information.list.items]]
