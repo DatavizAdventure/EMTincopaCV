@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Presentation & Data Visualization Designer | Tech Industry Enthusiast | Illustrator"
+        tagline = "Data Visualization & Information Designer | Presentation | Illustrator | Tech Industry Enthusiast"
         avatar = "EMT.png"
 
 
