@@ -151,7 +151,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in environmental consulting and health services, but in recent months I have focused in the creation of infographics for social media or journals in the Technology field and Video Game Industry."
+        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in environmental consulting and health services, but in recent months I have focused in the creation of infographics for social media or journals in the Technology field."
 
 
 
@@ -164,13 +164,6 @@ theme = "hugo-devresume-theme"
         
         
         [[params.experience.list]]
-        title = "Data Visualization Designer"
-        dates = "2022 - Present"
-        company = "MarketColor Limited (UK), Freelance"
-        details = "Design of custom graphics for presentations and publications related to the capital market and other business KPIs."
-        [[params.experience.list.items]]
-        details = "Tools: R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
-        [[params.experience.list]]
         title = "Data Visualization Consultant and Designer"
         dates = "2021 - Present"
         company = "Freelance (Self employed)"
@@ -182,10 +175,17 @@ theme = "hugo-devresume-theme"
         [[params.experience.list.items]]
         details = "I use R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
         [[params.experience.list]]
+        title = "Data Visualization Designer"
+        dates = "2022 - 2023"
+        company = "MarketColor Limited (UK), Freelance"
+        details = "Design of custom graphics for presentations and publications related to the capital market and other business KPIs."
+        [[params.experience.list.items]]
+        details = "Tools: R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
+        [[params.experience.list]]
         title = "Data visualization specialist (Remote)"
         dates = "2021 - 2022"
         company = "FUTURUM - Digital Agency (Chile)"
-        details = "As part of the Data Team, I'm designing de data visualization and user experience for the clients, always chasing the perfect form for information. My work involves:"
+        details = "As part of the Data Team, I'm designing the data visualization and user experience for the clients, always chasing the perfect form for information. My work involves:"
         [[params.experience.list.items]]
         details = "Designing data visualizations, reports and user interfaces."
         [[params.experience.list.items]]
@@ -252,7 +252,7 @@ theme = "hugo-devresume-theme"
 
 
     [params.projects]
-        enable = true
+        enable = false
 
         [[params.projects.list]]
         title = "Project: Clinical Trials - An opportunity for everyone"
