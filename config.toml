@@ -60,9 +60,9 @@ theme = "hugo-devresume-theme"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "R/SQL/DAX"
+        details = "R/SQL"
         [[params.skills.list.items]]
-        details = "Power BI/Tableau/Data Studio/Flourish"
+        details = "Power BI/Tableau/Looker Data Studio/Flourish"
         [[params.skills.list.items]]
         details = "Adobe Illustrator/Adobe Photoshop/Adobe After Effects/Figma"
         [[params.skills.list.items]]
@@ -163,6 +163,13 @@ theme = "hugo-devresume-theme"
         enable = true
         
         
+        [[params.experience.list]]
+        title = "Wordpress Content Manager"
+        dates = "2023 - Present"
+        company = "Supremely Technologies INC. (New York, USA), Contractor"
+        details = "I have been involved in information technology projects to support clients, encompassing various areas such as  data visualization, graphic design, data analysis, and social media content for cyber security. Additionally, I have contributed to generating story ideas, crafting marketing materials, engaging in marketing activities, and reviewing content produced by colleagues."
+        [[params.experience.list.items]]
+        details = "Tools: Wordpress, Looker Data Studio, Canva, Adobe Illustrator, R, AI services."
         [[params.experience.list]]
         title = "Data Visualization Consultant and Designer"
         dates = "2021 - Present"
