@@ -23,7 +23,7 @@ theme = "hugo-devresume-theme"
     [params.profile]
         enable = true
         name = "Enrique Mendoza Tincopa"
-        tagline = "Data Visualization & Information Designer | Presentation | Illustrator | Tech Industry Enthusiast"
+        tagline = "Data Visualization & Information Designer | Presentation Designer | Infographic Designer"
         avatar = "EMT.png"
 
 
@@ -151,7 +151,7 @@ theme = "hugo-devresume-theme"
 
     [params.summary]
         enable = true
-        text = "At the moment I am dedicated to the analysis, visualization and storytelling with data, through programming languages and design tools. My goal is to transform complex data into accessible formats and facilitate a better understanding of the information for optimal decision-making in organizations. I have gained experience in environmental consulting and health services, but in recent months I have focused in the creation of infographics for social media or journals in the Technology field."
+        text = "I am a Data Visualization and Information Design specialist dedicated to the analysis, visualization, and storytelling of data through programming languages and design tools. My goal is to transform complex data into accessible formats, facilitating a better understanding of information for optimal decision-making within organizations. I have gained experience in environmental consulting and health services, but in recent years, I have focused on creating infographics for social media or journals in the fields of science and business."
 
 
 
@@ -162,25 +162,24 @@ theme = "hugo-devresume-theme"
     [params.experience]
         enable = true
         
-        
-        [[params.experience.list]]
-        title = "Wordpress Content Manager"
-        dates = "2023 - Present"
-        company = "Supremely Technologies INC. (New York, USA), Contractor"
-        details = "I have been involved in information technology projects to support clients, encompassing various areas such as  data visualization, graphic design, data analysis, and social media content for cyber security. Additionally, I have contributed to generating story ideas, crafting marketing materials, engaging in marketing activities, and reviewing content produced by colleagues."
-        [[params.experience.list.items]]
-        details = "Tools: Wordpress, Looker Data Studio, Canva, Adobe Illustrator, R, AI services."
         [[params.experience.list]]
         title = "Data Visualization Consultant and Designer"
         dates = "2021 - Present"
-        company = "Freelance (Self employed)"
-        details = "Currently I'm dedicated to helping companies or independent people to transform complex data into accessible visualizations and facilitate a better understanding of the information. I'm interested in projects related to Capital Markets, Technology and Video Game Industry. Contact email: datavizadventure@gmail.com or [Fiverr](https://es.fiverr.com/share/8pj3Ao)."
+        company = "DatavizAdventure, Freelance (Self employed)"
+        details = "Currently I'm dedicated to helping companies or independent people to transform complex data into accessible visualizations and facilitate a better understanding of the information. I'm interested in projects related to Capital Markets, Technology and Video Game Industry. Contact email: datavizadventure@gmail.com" #or [Fiverr](https://es.fiverr.com/share/8pj3Ao)."
         [[params.experience.list.items]]
         details = "Some of my actual clients: [Roche](https://www.roche.com.pe), [Marketcolor](https://www.marketcolor.co), [Bolster](https://bolster.ai/?src=twitter), etc."
         [[params.experience.list.items]]
         details = "I mostly share my work in the following sites: [Instagram/datavizadventure](https://www.instagram.com/datavizadventure/) and [Behance](https://www.behance.net/enriquemendoza5)."
         [[params.experience.list.items]]
         details = "I use R, Tableau, Power BI, Figma, Adobe Illustrator, Adobe Photoshop and more."
+        [[params.experience.list]]
+        title = "Web Content Manager"
+        dates = "2023 - 2023"
+        company = "Supremely Technologies INC. (New York, USA), Contractor"
+        details = "I have been involved in information technology projects to support clients, encompassing various areas such as  data visualization, graphic design, data analysis, and social media content for cyber security. Additionally, I have contributed to generating story ideas, crafting marketing materials, engaging in marketing activities, and reviewing content produced by colleagues."
+        [[params.experience.list.items]]
+        details = "Tools: Wordpress, Looker Data Studio, Canva, Adobe Illustrator, R, AI services."
         [[params.experience.list]]
         title = "Data Visualization Designer"
         dates = "2022 - 2023"
@@ -297,10 +296,10 @@ theme = "hugo-devresume-theme"
         [[params.information.list]]
         title = "Interests"
         details = "DataViz & Design, Infographics, Coding, Social Issues, Videogames, Watercolor Painting, Skateboarding"
-        [[params.information.list]]
-        title = "Certificates"
-        [[params.information.list.items]]
-        details = "Access to my Certificates: [MOOCs and Workshops Certificates](https://drive.google.com/drive/folders/1yxPWfPSGuUoYSczAxteJ2dJPAd6b8gyO?usp=sharing)"
+        #[[params.information.list]]
+        #title = "Certificates"
+        #[[params.information.list.items]]
+        #details = "Access to my Certificates: [MOOCs and Workshops Certificates](https://drive.google.com/drive/folders/1yxPWfPSGuUoYSczAxteJ2dJPAd6b8gyO?usp=sharing)"
 
 
 
@@ -313,10 +312,10 @@ theme = "hugo-devresume-theme"
     [params.social]
         enable = true
 
-        [[params.social.list]]
-        icon = "fab fa-github-square"
-        url = "//github.com/DatavizAdventure"
-        title = "My github"
+        #[[params.social.list]]
+        #icon = "fab fa-github-square"
+        #url = "//github.com/DatavizAdventure"
+        #title = "My github"
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/enrique-mendoza-t-4b2a14173/"
